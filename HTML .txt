@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Amazingharsad</title>
+</head>
+<body>
+
+<h1>🙏 Amazingharsad 🙏</h1>
+
+<h2>જય હર્ષદ માતાજી</h2>
+
+<h3>Temple Timings</h3>
+<p>Open: 09:00 AM</p>
+<p>Close: 09:00 PM</p>
+
+<h3>Harshiddhi Van</h3>
+<p>Open: 08:00 AM</p>
+<p>Close: 07:00 PM</p>
+
+<h3>Shiv Mandir</h3>
+<p>Located beside Harshiddhi Van near the seashore.</p>
+
+<h3>Sikotar Mataji Temple</h3>
+<p>Near NH-51, Harshad-Dwarka Road.</p>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<title>Amazingharsad</title>
+</head>
+<body>
+
+<h1>🙏 Amazingharsad 🙏</h1>
+
+<h2>જય હર્ષદ માતાજી</h2>
+
+<h3>Temple Timings</h3>
+<p>Open: 09:00 AM</p>
+<p>Close: 09:00 PM</p>
+
+<h3>Harshiddhi Van</h3>
+<p>Open: 08:00 AM</p>
+<p>Close: 07:00 PM</p>
+
+<h3>Shiv Mandir</h3>
+<p>Located beside Harshiddhi Van near the seashore.</p>
+
+<h3>Sikotar Mataji Temple</h3>
+<p>Near NH-51, Harshad-Dwarka Road.</p>
+
+</body>
+</html>
